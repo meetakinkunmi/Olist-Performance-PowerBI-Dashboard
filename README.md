@@ -187,7 +187,7 @@ The report has four pages on one consistent 1280 x 800 grid. Slicers for Year, R
 
 
 1. **Growth peaked with Black Friday 2017.** Revenue climbed through 2017, spiked in November 2017 and then plateaued at roughly R$900k average per month in 2018.
-2. **Revenue is concentrated.** The top 10 categories earn 80% of revenue, led by health and beauty, watches and gifts, bed bath table and sports leisure.
+2. **Revenue is concentrated.** The top 10 product categories earn 80% of revenue, led by health and beauty, watches and gifts, bed bath table and sports leisure.
 3. **Geography drives cost.** São Paulo generates about ~38% of revenue, while freight takes ~23% of revenue in the far north against ~14% in São Paulo.
 4. **Late delivery hurts satisfaction.** Late orders score 2.3% against 4.2 for on-time orders, a gap of about 2 points, and the score keeps falling as delays lengthen.
 5. **Customers rarely return.** Only about 3% of customers place a second order, so the business is acquisition-driven with little loyalty.
